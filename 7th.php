@@ -152,7 +152,7 @@
 
            <pre>
 
-Enter the One Time Password sent to your mobile phone 
+OTP Send Your Registered Mobile Number
 
            </pre>
 
